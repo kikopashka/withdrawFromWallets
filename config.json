@@ -1,0 +1,57 @@
+{
+    "tokens" : {
+        "base" : {
+            "toby" : "0xb8d98a102b0079b69ffbc760c8d857a31653e56e",
+            "dog" : "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
+            "degen" : "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+            "spec" : "0x96419929d7949d6a801a6909c145c8eef6a40431",
+            "member" : "0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9",
+            "usdc" : "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913"
+        },
+
+        "optimism" : {
+            "usdc" : "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "usdce" : "0x7f5c764cbc14f9669b88837ca1490cca17c31607"
+        },
+        "arbitrum" : {
+            "usdc" : "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "usdt" : "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+            "usdce" : "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        },
+        "avalanche" : {
+            "usdt" : "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7"
+        },
+        "bsc" : {
+            "usdt" : "0x55d398326f99059ff775485246999027b3197955"
+        },
+        "polygon" : {
+            "usdc" : "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+            "usdt" : "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "usdce" : "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+        },
+        "zksync" : {
+            "usdc" : "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+            "wbtc" : "0xbbeb516fb02a01611cbbe0453fe3c580d7281011"
+        }
+    },
+
+    "decimals" : {
+        "avax" : 18,
+        "matic" : 18,
+        "eth" : 18,
+        "bnb" : 18
+    },
+
+    "jumper" : {
+        "chainId" : {
+            "optimism" : 10,
+            "arbitrum" : 42161,
+            "linea" : 59144,
+            "base" : 8453,
+            "scroll" : 534352,
+            "zkSync" : 324,
+            "bsc" : 56,
+            "avalanche" : 43114
+        }
+    }
+}

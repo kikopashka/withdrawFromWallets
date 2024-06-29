@@ -1,0 +1,17 @@
+{
+  "name": "withdraw_from_wallets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "lodash": "^4.17.21",
+    "winston": "^3.13.0"
+  }
+}
